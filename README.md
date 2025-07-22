@@ -2,6 +2,10 @@
 
 Uma aplicação de cadastro de usuários desenvolvida com tecnologias modernas do ecossistema React.
 
+## Design
+
+**Figma Design**: [Acesse o design completo no Figma](https://www.figma.com/design/uq2M3y4yKU7J2LVKWfjdPJ/Cadastro-de-usu%C3%A1rio?node-id=0-1&t=bJygJERxTy2uHdHr-1)
+
 ## Tecnologias Utilizadas
 
 ### Core Technologies
